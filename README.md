@@ -2,6 +2,10 @@
 
 A comprehensive, professional, and fully responsive website for the State Universal Basic Education Board (SUBEB), Akwa Ibom State, Nigeria.
 
+<p align="center">
+    <img src="./Public/images/banner.png" alt="Akwa Ibom Ministry of Arts & Culture" width="100%">
+</p>
+
 ## 🌟 Features
 
 ### 🏗️ Website Structure (12+ Core Pages)
